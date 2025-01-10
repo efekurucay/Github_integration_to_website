@@ -16,7 +16,7 @@ This project allows you to showcase your GitHub repositories on your website wit
 
 1. Clone the project:
 ```bash
-git clone [https://github.com/username/github-integration.git](https://github.com/efekurucay/Github_integration_to_website)
+git clone https://github.com/efekurucay/Github_integration_to_website
 ```
 
 2. Set your GitHub username in `script.js`:
